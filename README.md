@@ -1,4 +1,4 @@
-# Internet Connectivity Observer for Android
+# NetWatcher - Internet Connectivity Observer for Android
 This utility class monitors changes in internet connectivity for Android applications.
 It adheres to best development practices and provides a straightforward and effective way to notify your activity when connectivity is established or lost.
 
