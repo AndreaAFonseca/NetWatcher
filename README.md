@@ -108,6 +108,9 @@ _When connected to the internet, a Snackbar is displayed. If disconnected, a Toa
 
 ![Demonstração de Conectividade](https://github.com/AndreaAFonseca/NetWatcher/blob/master/conexaoInternet.gif)
 
+### Acknowledgement
+I would like to thank Professor Jamilton Damasceno for mentoring me and providing me with the knowledge base for this project.
+
 ### Contributing
 Feel free to contribute with improvements, bug fixes, or new features. Open an issue or submit a pull request!
 
